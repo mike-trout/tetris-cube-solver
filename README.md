@@ -1,2 +1,2 @@
 # tetris-cube-solver
-Java application to solve the Tetris Cube Puzzle.
+Eclipse project for a Java application to solve the Tetris Cube Puzzle.
